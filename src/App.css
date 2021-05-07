@@ -2,6 +2,17 @@
   text-align: center;
 }
 
+.container {
+  max-width: 1000px;
+  margin: 0 auto;
+  background-color: white;
+}
+.main {
+  padding: 10px 10px 10px 12px;
+  background-color: #fff;
+  background-color: #e6e8eb;
+}
+
 .App-logo {
   height: 40vmin;
   pointer-events: none;
